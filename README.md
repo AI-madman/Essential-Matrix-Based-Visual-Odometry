@@ -8,7 +8,8 @@ This project is setup to run on the KITTI dataset [4] but may be calibarted to r
 
 
 
-Refrances
+Refrances:
+
 [1] https://www.robots.ox.ac.uk/~vgg/hzbook/hzbook2/HZepipolar.pdf
 
 [2] http://avisingh599.github.io/vision/monocular-vo/ 
