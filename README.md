@@ -10,6 +10,9 @@ This project is setup to run on the KITTI dataset [4] but may be calibarted to r
 
 Refrances
 [1] https://www.robots.ox.ac.uk/~vgg/hzbook/hzbook2/HZepipolar.pdf
+
 [2] http://avisingh599.github.io/vision/monocular-vo/ 
+
 [3] https://github.com/avisingh599/mono-vo
+
 [4] http://www.cvlibs.net/datasets/kitti/eval_odometry.php
